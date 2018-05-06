@@ -1,6 +1,6 @@
 //Funciones de Daniel Leon para manejar strings
-#ifndef _DFUN_H
-# define _DFUN_H
+#ifndef _DFUNSTRINGS_H
+# define _DFUNSTRINGS_H
 
 //DEFINICIONES PARA COPIAR_STRING
 #define FIN             '1'
