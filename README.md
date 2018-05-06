@@ -1,4 +1,5 @@
-# test
-repositorio prueba
+# dfunciones
 
-el repositorio prueba primero es editado en una rama. luego se une con el maestro.
+Repositorio con funciones usadas por Daniel Leon
+
+En este repositorio tengo un backup de mis programas y funciones, con codigos que han funcionado bien hasta ahora.
